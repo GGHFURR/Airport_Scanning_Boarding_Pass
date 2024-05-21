@@ -1,4 +1,4 @@
-# airplane_thoriq
+# Airport Scanning Boarding Pass System
 
 A new Flutter project.
 
